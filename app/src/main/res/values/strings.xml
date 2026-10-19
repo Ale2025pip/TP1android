@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP1android</string>
+    <!--texto para registro-->
+    <string name="title_register"> Crear cuenta</string>
+    <string name="hint_name">Ingresa tu nombre </string>
+    <string name="hint_email"> Ingresa tu correo electronico</string>
+    <string name="hint_password">Ingresa tu contraseña </string>
+    <string name="btn_register"> Registrarse </string>
+    <string name="tv_go_to_login"> ¿Ya tenes cuenta? Inicia sesion</string>
+
+    <!--Pantalla de login-->
+    <string name="title_login">Iniciar Sesion</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="tv_go_to_register">¿No tenes cuenta? Registrate</string>
+
+</resources>
